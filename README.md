@@ -107,7 +107,7 @@ To run the program use command, rails server
 
 👤 **Ismail Changezi**
 
-- GitHub: [@Swarzstein](https://github.com/IsmailChangezi)
+- GitHub: [@IsmailChangezi](https://github.com/IsmailChangezi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismailchangezi/)
 
 <p align="right"><a href="#readme-top">👆</a></p>
