@@ -91,7 +91,7 @@ gem install rails
 Clone the repo into your local machine:
 
 ```bash
-git clone https://github.com/Swarzstein/Blog-app.git
+https://github.com/IsmailChangezi/blog-app.git
 ```
 
 ### Usage
@@ -128,7 +128,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-https://github.com/Swarzstein/Blog-app/issues
+https://github.com/IsmailChangezi/blog-app/issues
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
