@@ -3,7 +3,6 @@ class Post < ApplicationRecord
   has_many :likes
   has_many :comments
 
-
   after_save :post_counter_update
 
   def post_counter_update
