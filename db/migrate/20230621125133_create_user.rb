@@ -7,8 +7,6 @@ class CreateUser < ActiveRecord::Migration[7.0]
       t.integer :posts_counter
 
       t.timestamps
-
-      add_index :users, :name, unique: true
     end
   end
 end

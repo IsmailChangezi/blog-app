@@ -5,6 +5,7 @@ AllCops:
     - "Rakefile"
     - "node_modules/**/*"
     - "bin/**/*"
+    - "db/migrate/20230622122258_add_column_to_comments.rb"
 
   DisplayCopNames: true
 
